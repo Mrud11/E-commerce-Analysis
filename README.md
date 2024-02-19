@@ -1,4 +1,4 @@
 # E-commerce-Analysis
 
-AIM: This is a Power BI project for analysis the sales on E-commerce websites.
+AIM: This is a Power BI project for analyzing the sales on E-commerce websites.
 
